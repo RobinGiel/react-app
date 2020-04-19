@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RobinGiel/react-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/RobinGiel/react-app/static/js/main.a8dc9e52.chunk.js",
+    "main.js.map": "/RobinGiel/react-app/static/js/main.a8dc9e52.chunk.js.map",
+    "runtime-main.js": "/RobinGiel/react-app/static/js/runtime-main.f368ef74.js",
+    "runtime-main.js.map": "/RobinGiel/react-app/static/js/runtime-main.f368ef74.js.map",
+    "static/js/2.07a05dc4.chunk.js": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js",
+    "static/js/2.07a05dc4.chunk.js.map": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js.map",
+    "index.html": "/RobinGiel/react-app/index.html",
+    "precache-manifest.e6d0028bac5acfd757e7865af7971442.js": "/RobinGiel/react-app/precache-manifest.e6d0028bac5acfd757e7865af7971442.js",
+    "service-worker.js": "/RobinGiel/react-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/RobinGiel/react-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RobinGiel/react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f368ef74.js",
+    "static/js/2.07a05dc4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a8dc9e52.chunk.js"
+  ]
+}
