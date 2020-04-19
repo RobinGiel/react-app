@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RobinGiel/react-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/RobinGiel/react-app/static/js/main.a8dc9e52.chunk.js",
-    "main.js.map": "/RobinGiel/react-app/static/js/main.a8dc9e52.chunk.js.map",
-    "runtime-main.js": "/RobinGiel/react-app/static/js/runtime-main.f368ef74.js",
-    "runtime-main.js.map": "/RobinGiel/react-app/static/js/runtime-main.f368ef74.js.map",
-    "static/js/2.07a05dc4.chunk.js": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js",
-    "static/js/2.07a05dc4.chunk.js.map": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js.map",
-    "index.html": "/RobinGiel/react-app/index.html",
-    "precache-manifest.e6d0028bac5acfd757e7865af7971442.js": "/RobinGiel/react-app/precache-manifest.e6d0028bac5acfd757e7865af7971442.js",
-    "service-worker.js": "/RobinGiel/react-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/RobinGiel/react-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/RobinGiel/react-app/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/RobinGiel/react-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-app/static/js/main.d8d3f137.chunk.js",
+    "main.js.map": "/react-app/static/js/main.d8d3f137.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.068afa05.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.068afa05.js.map",
+    "static/js/2.07a05dc4.chunk.js": "/react-app/static/js/2.07a05dc4.chunk.js",
+    "static/js/2.07a05dc4.chunk.js.map": "/react-app/static/js/2.07a05dc4.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.dd8d910acf1b289f2cd10f50243e9351.js": "/react-app/precache-manifest.dd8d910acf1b289f2cd10f50243e9351.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/react-app/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f368ef74.js",
+    "static/js/runtime-main.068afa05.js",
     "static/js/2.07a05dc4.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a8dc9e52.chunk.js"
+    "static/js/main.d8d3f137.chunk.js"
   ]
 }
